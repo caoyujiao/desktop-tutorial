@@ -1864,7 +1864,7 @@
   left:0px;
   top:0px;
   width:74px;
-  height:63px;
+  height:92px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -1883,7 +1883,7 @@
   left:663px;
   top:1253px;
   width:74px;
-  height:63px;
+  height:92px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -1895,7 +1895,7 @@
   left:0px;
   top:0px;
   width:74px;
-  height:63px;
+  height:92px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -9359,4 +9359,41 @@
   width:0px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u6514_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:29px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u6514 {
+  border-width:0px;
+  position:absolute;
+  left:672px;
+  top:1316px;
+  width:29px;
+  height:20px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u6514_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:29px;
+  white-space:nowrap;
 }
