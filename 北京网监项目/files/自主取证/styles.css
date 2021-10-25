@@ -1770,3 +1770,45 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u435_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:433px;
+  height:76px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(255, 153, 0, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+#u435 {
+  border-width:0px;
+  position:absolute;
+  left:503px;
+  top:1526px;
+  width:433px;
+  height:76px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+#u435_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:429px;
+  word-wrap:break-word;
+}
