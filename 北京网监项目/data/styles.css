@@ -63,6 +63,11 @@
 }
 .table_cell {
 }
+.menu_item {
+}
+.marker {
+  color:#FFFFFF;
+}
 .label {
   font-size:14px;
   text-align:left;
@@ -71,6 +76,9 @@
   text-align:left;
 }
 .radio_button {
+  text-align:left;
+}
+.tree_node {
   text-align:left;
 }
 .shape {
