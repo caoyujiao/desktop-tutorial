@@ -71,7 +71,7 @@
   -moz-box-shadow:0px 3px 5px rgba(153, 153, 153, 0.2);
   -webkit-box-shadow:0px 3px 5px rgba(153, 153, 153, 0.2);
   box-shadow:0px 3px 5px rgba(153, 153, 153, 0.2);
-  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑';
   font-weight:700;
   font-style:normal;
   color:#CCCCCC;
@@ -84,7 +84,7 @@
   top:0px;
   width:1156px;
   height:60px;
-  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑';
   font-weight:700;
   font-style:normal;
   color:#CCCCCC;
@@ -458,7 +458,7 @@
   top:0px;
   width:209px;
   height:37px;
-  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑';
   font-weight:700;
   font-style:normal;
 }
@@ -1806,7 +1806,7 @@
   left:0px;
   top:0px;
   width:433px;
-  height:343px;
+  height:516px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -1828,7 +1828,7 @@
   left:1197px;
   top:22px;
   width:433px;
-  height:343px;
+  height:516px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
@@ -1872,7 +1872,7 @@
   border-width:0px;
   position:absolute;
   left:1197px;
-  top:401px;
+  top:557px;
   width:433px;
   height:246px;
 }
@@ -1909,7 +1909,7 @@
   border-width:0px;
   position:absolute;
   left:1222px;
-  top:426px;
+  top:582px;
   width:61px;
   height:21px;
   font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
@@ -1952,7 +1952,7 @@
   border-width:0px;
   position:absolute;
   left:1323px;
-  top:573px;
+  top:729px;
   width:91px;
   height:37px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -2017,7 +2017,7 @@
   border-width:0px;
   position:absolute;
   left:1453px;
-  top:573px;
+  top:729px;
   width:91px;
   height:37px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -2095,7 +2095,7 @@
   border-width:0px;
   position:absolute;
   left:1589px;
-  top:424px;
+  top:580px;
   width:24px;
   height:24px;
 }
@@ -2130,7 +2130,7 @@
   border-width:0px;
   position:absolute;
   left:1257px;
-  top:489px;
+  top:645px;
   width:57px;
   height:20px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -2149,7 +2149,7 @@
   border-width:0px;
   position:absolute;
   left:1324px;
-  top:486px;
+  top:642px;
   width:220px;
   height:27px;
 }

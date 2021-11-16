@@ -71,7 +71,7 @@
   -moz-box-shadow:0px 3px 5px rgba(153, 153, 153, 0.2);
   -webkit-box-shadow:0px 3px 5px rgba(153, 153, 153, 0.2);
   box-shadow:0px 3px 5px rgba(153, 153, 153, 0.2);
-  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑';
   font-weight:700;
   font-style:normal;
   color:#CCCCCC;
@@ -84,7 +84,7 @@
   top:0px;
   width:1156px;
   height:60px;
-  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑';
   font-weight:700;
   font-style:normal;
   color:#CCCCCC;
@@ -3610,7 +3610,7 @@
   left:0px;
   top:0px;
   width:380px;
-  height:384px;
+  height:480px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -3632,7 +3632,7 @@
   left:1182px;
   top:60px;
   width:380px;
-  height:384px;
+  height:480px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
