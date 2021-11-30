@@ -985,7 +985,7 @@
   border-width:0px;
   position:absolute;
   left:475px;
-  top:353px;
+  top:355px;
   width:270px;
   height:25px;
 }
@@ -1000,10 +1000,8 @@
   font-style:normal;
   font-size:13px;
   text-decoration:none;
-  color:#BCBCBC;
-}
-#u2191_input:disabled {
-  color:grayText;
+  color:#000000;
+  text-align:left;
 }
 #u2192 {
   border-width:0px;
@@ -1071,10 +1069,8 @@
   font-style:normal;
   font-size:13px;
   text-decoration:none;
-  color:#BCBCBC;
-}
-#u2194_input:disabled {
-  color:grayText;
+  color:#000000;
+  text-align:left;
 }
 #u2195 {
   border-width:0px;
