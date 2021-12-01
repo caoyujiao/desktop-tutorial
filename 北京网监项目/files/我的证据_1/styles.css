@@ -4634,10 +4634,10 @@
   top:0px;
   width:421px;
   height:551px;
+  overflow:auto;
+  -webkit-overflow-scrolling:touch;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
   background-image:none;
 }
 #u3068_state0_content {
@@ -6043,10 +6043,10 @@
   width:421px;
   height:551px;
   visibility:hidden;
+  overflow:auto;
+  -webkit-overflow-scrolling:touch;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
   background-image:none;
 }
 #u3068_state1_content {
@@ -6298,10 +6298,10 @@
   width:421px;
   height:551px;
   visibility:hidden;
+  overflow:auto;
+  -webkit-overflow-scrolling:touch;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
   background-image:none;
 }
 #u3068_state2_content {
@@ -6396,10 +6396,10 @@
   width:421px;
   height:551px;
   visibility:hidden;
+  overflow:auto;
+  -webkit-overflow-scrolling:touch;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
   background-image:none;
 }
 #u3068_state3_content {
