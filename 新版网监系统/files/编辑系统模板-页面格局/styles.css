@@ -7505,9 +7505,10 @@
 #u1090_text {
   border-width:0px;
   position:absolute;
-  left:3px;
-  top:1px;
-  width:53px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   white-space:nowrap;
 }
 #u1091 {
