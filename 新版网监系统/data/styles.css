@@ -16,6 +16,9 @@
 .primary_button {
   color:#FFFFFF;
 }
+.link_button {
+  color:#169BD5;
+}
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
@@ -115,4 +118,44 @@
 }
 ._图片 {
   color:#000000;
+}
+.box_2 {
+}
+.shape {
+}
+.paragraph {
+  text-align:left;
+}
+.image2 {
+  color:#000000;
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+._图片1 {
+}
+._形状 {
+}
+._图片_ {
+}
+.ellipse {
+}
+._表格 {
+}
+._连接线 {
+  font-family:'仿宋 Bold', '仿宋 Regular', '仿宋';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  color:#666666;
+  text-align:center;
+  line-height:normal;
+}
+._默认样式 {
+}
+.refs-webm-wechat {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
 }
