@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u3273_img {
+#u3277_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,7 +20,7 @@
   width:1432px;
   height:686px;
 }
-#u3273 {
+#u3277 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -28,7 +28,7 @@
   width:1432px;
   height:686px;
 }
-#u3273_text {
+#u3277_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -37,7 +37,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u3274_div {
+#u3278_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -59,7 +59,7 @@
   font-style:normal;
   text-align:left;
 }
-#u3274 {
+#u3278 {
   border-width:0px;
   position:absolute;
   left:15px;
@@ -71,11 +71,105 @@
   font-style:normal;
   text-align:left;
 }
-#u3274_text {
+#u3278_text {
   border-width:0px;
   position:absolute;
   left:2px;
   top:2px;
   width:769px;
   word-wrap:break-word;
+}
+#u3279_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1200px;
+  height:667px;
+}
+#u3279 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:833px;
+  width:1200px;
+  height:667px;
+}
+#u3279_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u3280 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u3281_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:99px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u3281 {
+  border-width:0px;
+  position:absolute;
+  left:454px;
+  top:1059px;
+  width:99px;
+  height:20px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u3281_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:99px;
+  white-space:nowrap;
+}
+#u3282 {
+  border-width:0px;
+  position:absolute;
+  left:563px;
+  top:1054px;
+  width:218px;
+  height:30px;
+}
+#u3282_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:218px;
+  height:30px;
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+}
+#u3282_input:disabled {
+  color:grayText;
 }
